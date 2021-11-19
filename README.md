@@ -1,2 +1,2 @@
 # geovana
-exercicios de programação
+exercícios de lógica de programação
