@@ -1,0 +1,12 @@
+Algoritmo "SOMA DOIS NÚMEROS"
+
+Var
+ N1,N2, D: INTEIRO
+
+Inicio
+ ESCREVAL("DIGITI DOIS NUMEROS")
+ LEIA(N1)
+ LEIA(N2)
+ D<-N1+N2
+ ESCREVA("A SOMA EH IGUAL A ",D)
+Fimalgoritmo
